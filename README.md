@@ -1,4 +1,2 @@
-# engineering-programming
-Programming projects demonstrating system logic, OOP, and structured design.
-⚙️ Engineering-oriented C++ projects focused on logic, system design, and reusable software components.
-🧠 Designed with applications in embedded systems, control software, and engineering problem solving.
+# c++-logic-training
+Practice projects and algorithm implementations written while learning C++ and problem-solving techniques.
